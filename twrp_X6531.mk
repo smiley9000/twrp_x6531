@@ -5,7 +5,7 @@
 #
 
 # Inherit from Infinix-X6531 device
-$(call inherit-product, device/infinix/Infinix-X6531/device.mk)
+$(call inherit-product, device/infinix/X6531/device.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/core_64_bit.mk)
 

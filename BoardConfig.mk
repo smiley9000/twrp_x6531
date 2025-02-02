@@ -4,7 +4,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/infinix/Infinix-X6833B
+DEVICE_PATH := device/infinix/X6531
 
 # Architecture
 TARGET_ARCH := arm64
