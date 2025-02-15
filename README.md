@@ -1,1 +1,1 @@
-## Device config for TWRP Infinix NOTE 30 ( Infinix-X6833B )
+## Device config for TWRP Infinix HOT 50I ( Infinix-X6531 )
